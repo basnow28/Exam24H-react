@@ -1,4 +1,4 @@
-import Students from './containers.js/Students';
+import Students from './containers/Students';
 
 function App() {
   return (
