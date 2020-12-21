@@ -1,0 +1,20 @@
+.students-list-container{
+    display: flex;
+    margin: 100px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    font-size: 18px;
+}
+
+.student-container{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+.student-property{
+    margin: 5px;
+}
